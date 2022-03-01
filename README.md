@@ -5,6 +5,6 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 
 # We make
 
-[Publy](https://publy.fun/)  
-<img src="https://user-images.githubusercontent.com/23184567/156173364-a38f7d38-53ea-4329-ae44-3da9ae5cf3f4.png" width="600" alt="Publy" />
-w
+<a href="https://publy.fun/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/23184567/156173364-a38f7d38-53ea-4329-ae44-3da9ae5cf3f4.png" width="600" alt="Publy" />
+</a>
