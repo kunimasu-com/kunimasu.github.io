@@ -8,9 +8,3 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 <a href="https://publy.fun/" target="_blank">
   <img src="https://user-images.githubusercontent.com/23184567/156173364-a38f7d38-53ea-4329-ae44-3da9ae5cf3f4.png" width="600" alt="Publy" />
 </a>
-
-<style>
-  h1 {
-    display: none;
-  }
-</style>
