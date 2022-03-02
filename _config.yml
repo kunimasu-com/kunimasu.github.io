@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: 株式会社Kunimasu
 description: We are software company focused on creating delightful & IoT products for mobile & web & desktop.
 remote_theme: pages-themes/minimal@v0.2.0
