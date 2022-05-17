@@ -21,11 +21,11 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
   <label>お名前</label><br>
-  <input name="お名前" type="text" required><br>
+  <input name="お名前" type="text" required style="width: 50%;"><br>
   <label>メールアドレス</label><br>
-  <input name="email" type="email" required><br>
+  <input name="email" type="email" required style="width: 50%;"><br>
   <label>お問い合わせ内容</label><br>
-  <textarea name="お問い合わせ内容"></textarea><br>
+  <textarea name="お問い合わせ内容" style="width: 100%; height: 20vh;"></textarea><br>
   <input name="個人情報の利用についての同意" id="consent-check" type="checkbox" value="同意します" required>
   <label for="consent-check">プライバシーポリシーについての同意</label><br>
   <textarea readonly style="width: 100%; height: 20vh;">プライバシーポリシー
