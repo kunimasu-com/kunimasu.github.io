@@ -12,6 +12,7 @@ We are software company focused on creating `delightful` & `IoT` products for `m
   <img src="./kukua-icon.png" width="300" alt="kukua" />
 </a>
 
+## Publy
 <a href="https://publy.fun/" target="_blank">
   <img src="https://user-images.githubusercontent.com/23184567/156173364-a38f7d38-53ea-4329-ae44-3da9ae5cf3f4.png" width="600" alt="Publy" />
 </a>
@@ -27,7 +28,7 @@ We are software company focused on creating `delightful` & `IoT` products for `m
   <textarea name="お問い合わせ内容"></textarea><br>
   <input name="個人情報の利用についての同意" id="consent-check" type="checkbox" value="同意します" required>
   <label for="consent-check">プライバシーポリシーについての同意</label><br>
-  <textarea style="width: 100%; height: 20vh;">プライバシーポリシー
+  <textarea readonly style="width: 100%; height: 20vh;">プライバシーポリシー
 
 
 株式会社Kunimasu（以下「当社」といいます）は、当社が提供するサービス（以下「本サービス」といいます）におけるユーザー（本サービスを利用する方に加え、当社ウェブサイトを閲覧する方も含みます）についての個人情報を含む利用者情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
