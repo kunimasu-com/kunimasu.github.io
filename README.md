@@ -5,8 +5,11 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 
 # We make
 
+## フォトブックの写真選び kukua
+沢山撮って迷ったら写真を選んでくれるアプリ
+
 <a href="https://apps.apple.com/jp/app/%E3%83%95%E3%82%A9%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%E3%81%AE%E5%86%99%E7%9C%9F%E9%81%B8%E3%81%B3-kukua/id1623834390" target="_blank">
-  <img src="kukua-icon.png" width="600" alt="kukua" />
+  <img src="./kukua-icon.png" width="300" alt="kukua" />
 </a>
 
 <a href="https://publy.fun/" target="_blank">
@@ -16,18 +19,18 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 # Contact us
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
-  <label>お名前</label>
-  <input name="お名前" type="text" required>
-  <label>メールアドレス</label>
-  <input name="email" type="email" required>
-  <label>お問い合わせ内容</label>
-  <textarea name="お問い合わせ内容"></textarea>
+  <label>お名前</label><br>
+  <input name="お名前" type="text" required><br>
+  <label>メールアドレス</label><br>
+  <input name="email" type="email" required><br>
+  <label>お問い合わせ内容</label><br>
+  <textarea name="お問い合わせ内容"></textarea><br>
   <input name="個人情報の利用についての同意" id="consent-check" type="checkbox" value="同意します" required>
-  <label for="consent-check">個人情報の利用についての同意</label>
-  <textarea>プライバシーポリシー
+  <label for="consent-check">プライバシーポリシーについての同意</label><br>
+  <textarea style="width: 100%; height: 20vh;">プライバシーポリシー
 
 
-株式会社Kunimasu（以下「当社」といいます）は、当社が提供するサービス「kukua」（以下「本サービス」といいます）におけるユーザー（本サービスを利用する方に加え、当社ウェブサイトを閲覧する方も含みます）についての個人情報を含む利用者情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
+株式会社Kunimasu（以下「当社」といいます）は、当社が提供するサービス（以下「本サービス」といいます）におけるユーザー（本サービスを利用する方に加え、当社ウェブサイトを閲覧する方も含みます）についての個人情報を含む利用者情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
 
 
 （総則）
