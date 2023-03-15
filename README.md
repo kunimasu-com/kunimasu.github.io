@@ -8,13 +8,18 @@ form {
   display: flex;
   flex-direction: column;
 }
+#about {
+  margin-bottom: 20px;
+}
+
 #about label,
 form > label {
   display: block;
   font-weight: bold;
   font-size: 1.2rem;
   margin-bottom: 2px;
-}
+} 
+#about label:nth-child(n+1),
 form label:nth-child(n+1) {
   margin: 8px 0 4px 0;
 }
@@ -40,16 +45,18 @@ button[type=submit] {
 
 ## 受託業務
 
-IoT / Mobile / Webの開発業務についてのご相談を承っています。<br />
+IoT / Mobile / Webの開発業務についてのご相談を承っています。IoTプロダクトの開発については、 企画、部品選定、通信プロトコル設計、アプリ・Web開発、量産立ち上げなど、一気通貫・ワンストップで支援可能です。
+
 具体的な仕様がないといった状況でも、お気軽にご相談ください。
 
 ## 自社プロダクト
 
 ### DIMBULA
 
-実機モバイルのCI（Continuous Integration）プロダクト「DIMBULA」を開発・運営しています。<br />
+実機モバイルのCIプロダクト「DIMBULA」を開発・運営しています。
+
 Githubと連携し、モバイルアプリ、WebサービスのE2Eテストをノーコード且つ弊社マネージドな環境で提供します。 
-他、カスタマーサポートでお客さまご利用の実機でデバッグする必要があった場合など、スポットで実機をリモートデスクトップのように利用したいケースでもご利用頂けます。
+また、カスタマーサポートでお客さまご利用の実機でデバッグする必要があった場合など、スポットで実機をリモートデスクトップのように利用したいケースでもご利用頂けます。
 
 # About us
 
