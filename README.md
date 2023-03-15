@@ -65,11 +65,12 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 <div id="about">
 
 <label>名称</label>
-株式会社Kunimasu  
+株式会社Kunimasu<br />
 よみ：かぶしきかいしゃ くにます
 
 <label>代表取締役</label>
-國舛等志
+國舛 等志<br />
+よみ：くにます ひとし
 
 <label>設立</label>
 2021年8月5日
