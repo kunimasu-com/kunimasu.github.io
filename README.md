@@ -15,6 +15,9 @@ form > label {
   margin-bottom: 2px;
 }
 form label:nth-child(n+1) {
+  margin: 8px 0 4px 0;
+}
+div.agree {
   margin: 8px 0;
 }
 div.agree > input {
@@ -29,7 +32,6 @@ div.agree > label {
 }
 button[type=submit] {
   padding: 8px;
-  margin-top: 8px;
 }
 </style>
 
