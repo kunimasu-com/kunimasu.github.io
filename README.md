@@ -8,6 +8,7 @@ form {
   display: flex;
   flex-direction: column;
 }
+#about label,
 form > label {
   display: block;
   font-weight: bold;
@@ -37,9 +38,38 @@ button[type=submit] {
 
 # What's company?
 
-Iot / Mobile / Web をワンストップで企画・開発するテックカンパニーです。
+## 受託業務
+
+IoT / Mobile / Webの開発業務についてのご相談を承っています。<br />
+具体的な仕様がないといった状況でも、お気軽にご相談ください。
+
+## 自社プロダクト
+
+### DIMBULA
+
+実機モバイルのCI（Continuous Integration）プロダクト「DIMBULA」を開発・運営しています。<br />
+Githubと連携し、モバイルアプリ、WebサービスのE2Eテストをノーコード且つ弊社マネージドな環境で提供します。 
+他、カスタマーサポートでお客さまご利用の実機でデバッグする必要があった場合など、スポットで実機をリモートデスクトップのように利用したいケースでもご利用頂けます。
+
+# About us
 
 <img src="./assets/image/corporate-icon.svg" width="300" alt="corporate-icon" />
+
+<div id="about">
+
+<label>名称</label>
+株式会社Kunimasu  
+よみ：かぶしきかいしゃ くにます
+
+<label>代表取締役</label>
+國舛等志
+
+<label>設立</label>
+2021年8月5日
+
+<label>事業内容</label>
+IoT機器及びアプリケーションの企画・開発・販売・運営
+</div>
 
 # Contact us
 
