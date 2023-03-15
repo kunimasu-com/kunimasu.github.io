@@ -1,36 +1,53 @@
+<style>
+input[type=text],
+input[type=email],
+textarea {
+  padding: 8px;
+  border-radius: 4px;
+}
+form > label {
+  display: block;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 2px;
+}
+form label:nth-child(n+1) {
+  margin-top: 8px;
+}
+div.agree > input {
+  width: 24px;
+  height: 24px
+}
+div.agree > label {
+  font-size: 1rem;
+  position: relative;
+  top: -5px;
+  margin-left: 8px;
+}
+button[type=submit] {
+  padding: 8px;
+  border-radius: 4px;
+  margin-top: 8px;
+}
+</style>
+
 # What's company?
-We are software company focused on creating `delightful` & `IoT` products for `mobile` & `web` & `desktop`.
 
-<img src="https://user-images.githubusercontent.com/23184567/156172524-bf2b9b4d-dcdf-40f8-b599-faca3e22a49a.svg" width="300" alt="logo" />
+Iot / Mobile / Web をワンストップで企画・開発するテックカンパニーです。
 
-# We make
-
-## フォトブックの写真選び kukua
-沢山撮って迷ったら写真を選んでくれるアプリ
-
-<a href="https://apps.apple.com/jp/app/%E3%83%95%E3%82%A9%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%E3%81%AE%E5%86%99%E7%9C%9F%E9%81%B8%E3%81%B3-kukua/id1623834390" target="_blank">
-  <img src="./kukua-icon.png" width="300" alt="kukua" />
-</a>
-
-## Publy
-<a href="https://publy.fun/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/23184567/156173364-a38f7d38-53ea-4329-ae44-3da9ae5cf3f4.png" width="600" alt="Publy" />
-</a>
+<img src="./assets/image/corporate-icon.svg" width="300" alt="corporate-icon" />
 
 # Contact us
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
-  <label>お名前</label><br>
-  <input name="お名前" type="text" required style="width: 50%;"><br>
-  <label>メールアドレス</label><br>
-  <input name="email" type="email" required style="width: 50%;"><br>
-  <label>お問い合わせ内容</label><br>
-  <textarea name="お問い合わせ内容" style="width: 100%; height: 20vh;"></textarea><br>
-  <input name="個人情報の利用についての同意" id="consent-check" type="checkbox" value="同意します" required>
-  <label for="consent-check">プライバシーポリシーについての同意</label><br>
+  <label>お名前</label>
+  <input name="お名前" type="text" required style="width: 50%;">
+  <label>メールアドレス</label>
+  <input name="email" type="email" required style="width: 50%;">
+  <label>お問い合わせ内容</label>
+  <textarea name="お問い合わせ内容" style="width: 100%; height: 20vh;"></textarea>
+  <label>個人情報の取り扱いについて</label>
   <textarea readonly style="width: 100%; height: 20vh;">プライバシーポリシー
-
-
 株式会社Kunimasu（以下「当社」といいます）は、当社が提供するサービス（以下「本サービス」といいます）におけるユーザー（本サービスを利用する方に加え、当社ウェブサイトを閲覧する方も含みます）についての個人情報を含む利用者情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
 
 
@@ -127,5 +144,9 @@ We are software company focused on creating `delightful` & `IoT` products for `m
 
 
 2022年5月13日制定</textarea>
-  <button type="submit">送信</button>
+  <div class="agree">
+    <input name="個人情報の利用についての同意" id="consent-check" type="checkbox" value="同意します" required>
+    <label for="consent-check">個人情報の利用についての同意</label>
+  </div>
+  <button type="submit">お問い合わせを送信する</button>
 </form>
