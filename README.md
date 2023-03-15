@@ -3,7 +3,10 @@ input[type=text],
 input[type=email],
 textarea {
   padding: 8px;
-  border-radius: 4px;
+}
+form {
+  display: flex;
+  flex-direction: column;
 }
 form > label {
   display: block;
@@ -12,7 +15,7 @@ form > label {
   margin-bottom: 2px;
 }
 form label:nth-child(n+1) {
-  margin-top: 8px;
+  margin: 8px 0;
 }
 div.agree > input {
   width: 24px;
@@ -26,7 +29,6 @@ div.agree > label {
 }
 button[type=submit] {
   padding: 8px;
-  border-radius: 4px;
   margin-top: 8px;
 }
 </style>
@@ -41,13 +43,13 @@ Iot / Mobile / Web をワンストップで企画・開発するテックカン�
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
   <label>お名前</label>
-  <input name="お名前" type="text" required style="width: 50%;">
+  <input name="お名前" type="text" required autocomplete="name">
   <label>メールアドレス</label>
-  <input name="email" type="email" required style="width: 50%;">
+  <input name="email" type="email" required autocomplete="email">
   <label>お問い合わせ内容</label>
-  <textarea name="お問い合わせ内容" style="width: 100%; height: 20vh;"></textarea>
+  <textarea name="お問い合わせ内容" style="height: 20vh;"></textarea>
   <label>個人情報の取り扱いについて</label>
-  <textarea readonly style="width: 100%; height: 20vh;">プライバシーポリシー
+  <textarea readonly style="height: 20vh;">プライバシーポリシー
 株式会社Kunimasu（以下「当社」といいます）は、当社が提供するサービス（以下「本サービス」といいます）におけるユーザー（本サービスを利用する方に加え、当社ウェブサイトを閲覧する方も含みます）についての個人情報を含む利用者情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
 
 
