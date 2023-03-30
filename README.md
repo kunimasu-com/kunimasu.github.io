@@ -58,6 +58,11 @@ IoT / Mobile / Webの開発業務についてのご相談を承っています�
 Githubと連携し、モバイルアプリ、WebサービスのE2Eテストをノーコード且つ弊社マネージドな環境で提供します。 
 また、カスタマーサポートでお客さまご利用の実機でデバッグする必要があった場合など、スポットで実機をリモートデスクトップのように利用したいケースでもご利用頂けます。
 
+## Zenn
+
+* [Kunimasuアカウント](https://zenn.dev/kunimasu)
+* [DIMBULAのトピック](https://zenn.dev/topics/dimbula)
+
 # About us
 
 <img src="./assets/image/corporate-icon.svg" width="300" alt="corporate-icon" />
