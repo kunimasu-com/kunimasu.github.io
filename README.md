@@ -77,18 +77,7 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 
 * [Zenn](https://zenn.dev/kunimasu)
 
-# 事業
-
-* Webサービス / ネイティブアプリ / IoT の受託開発（請負、準委任）
-* 月額制エンジニアリングサービス（仕様を一緒に作っていく段階でジョイン出来ます）
-* 自社プロダクト開発・運営
-* 天然石販売
-  * [\_\_picgem\_\_]( ) - Twitter
-  * [直販サイト](https://picgem.kunimasu.com/) - BASE支店
-* 自家珈琲焙煎・販売
-
 # About us
-
 <img src="./assets/image/corporate-icon.svg" width="300" alt="corporate-icon" />
 
 <div id="about">
@@ -103,6 +92,16 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 
 <label>設立</label>
 2021年8月5日
+
+# 事業内容
+* Webサービス / ネイティブアプリ / IoT の受託開発（請負、準委任）
+* 月額制エンジニアリングサービス（仕様を一緒に作っていく段階でジョイン出来ます）
+* 自社プロダクト開発・運営
+* 天然石販売
+  * [\_\_picgem\_\_]( ) - Twitter
+  * [直販サイト](https://picgem.kunimasu.com/) - BASE支店
+* 自家珈琲焙煎・販売
+
 
 # Contact us
 
