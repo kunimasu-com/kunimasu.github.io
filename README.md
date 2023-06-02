@@ -60,10 +60,14 @@ IoT / Mobile / Webの開発業務についてのご相談を承っています�
 Githubと連携し、モバイルアプリ、WebサービスのE2Eテストをノーコード且つ弊社マネージドな環境で提供します。 
 また、カスタマーサポートでお客さまご利用の実機でデバッグする必要があった場合など、スポットで実機をリモートデスクトップのように利用したいケースでもご利用頂けます。
 
-## Zenn
+### Publy
 
-* [Kunimasuアカウント](https://zenn.dev/kunimasu)
-* [DIMBULAのトピック](https://zenn.dev/topics/dimbula)
+「[Publy](https://publy.fun/)」は、スマホで好きな写真や画像を選択して簡単にオリジナルカレンダーや雑誌を作って売れるサービスです。受注生産なので在庫リスクはゼロ。発送までPublyが行います。
+![img.png](assets/image/publy.png)
+
+## テックブログ
+
+* [Zenn](https://zenn.dev/kunimasu)
 
 # About us
 
