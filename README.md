@@ -103,10 +103,6 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 <label>設立</label>
 2021年8月5日
 
-<label>事業内容</label>
-IoT機器及びアプリケーションの企画・開発・販売・運営
-</div>
-
 # Contact us
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
