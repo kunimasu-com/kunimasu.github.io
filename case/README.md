@@ -29,7 +29,7 @@
 * HTTP / TCP / UDP / MQTT / WebSocket / WebRTC  
 
 ### 👉 その他
-* BLE
+* BLE / terraform
 
 # 事例
 ## Web・モバイルアプリ
