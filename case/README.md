@@ -17,13 +17,13 @@
 
 ### 🚀 言語
 * フロントエンド：TypeScript / ReactJS / NextJS  
-* サーバーサイド：TypeScript / Node / Python / Kotlin  
+* サーバーサイド：TypeScript / Node / Python / Kotlin / Ruby
 * モバイルアプリ：Swift / Kotlin / Flutter / Java / Objective-C  
 * デスクトップアプリ：C# .NET  
 * Web3：Solidity
 
 ### ☁ クラウド
-* AWS / Firebase / GCP / Cloudflare / Fly.io  
+* AWS / Firebase / GCP / Cloudflare
 
 ### 🛠 プロトコル
 * HTTP / TCP / UDP / MQTT / WebSocket / WebRTC  
@@ -33,6 +33,13 @@
 
 # 事例
 ## Web・モバイルアプリ
+
+### コンシューマー向け金融プラットフォーム
+お客さまはコンシューマー向けに金融商品を販売する会社。お客さまとの相談やセミナー、金融商品にまつわる社内管理などを管理するシステムのバックエンドのリアーキテクチャを担当。 
+お客さま自身で目的を達するための検討はされていたので、具体的にどう実現するのか調査を行い、インフラ(IaC)から稼働するコードの改修とテストを実施。
+フロントエンドのリアーキテクチャも実施。Railsでレンダリングするビューを、SPA化するためにReact x MUIの構成へ移行。GraphQL x Zodのスキーマーでデータをやりとり。
+
+技術要素：Ruby on Rails / NextJS / GCP / PostgreSQL
 
 ### 建材調達DXサービス
 建材調達で発生する様々なコストをワンストップで引き受け、施工主と建材工場の負担を軽減するtoBサービス。開発エンジニアが1人の中、二人目として参画し、デザイナーと協調し、スマホ向けにレシポンシブ対応から着手。プロダクトの成長に伴い、技術要素の見直しなどの担当を予定。
