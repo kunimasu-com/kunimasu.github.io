@@ -130,6 +130,27 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
   * [直販サイト](https://picgem.kunimasu.com/) - BASE支店
 * 自家珈琲焙煎・販売
 
+# 株式会社みんてく
+経営に参画している株式会社みんてくについて、以下から詳細を確認できます。
+
+- [株式会社みんてく](https://www.minteku.com/)
+- [みんてくのサービス](https://www.minteku.com/services)
+- [みんてくの生成AI活用](https://www.minteku.com/generation-ai)
+- [みんてくについて](https://www.minteku.com/about)
+- [みんてくへお問い合わせ](https://www.minteku.com/contact)
+
+## AIクイックスタート
+みんてくは、10万円で生成AIアプリの開発を2週間 ~ お届けするサービス「AIクイックスタート」を始めました。
+
+最新AI技術活用を10万から初められる特別プラン！  
+～ 今すぐ始められる、AI活用の第一歩 ～  
+
+生成AI導入の課題である「高コストへの不安」「長期開発の懸念」「専門知識の必要性」に対して、安心してご利用いただけるプランをご用意しています。
+
+[AIクイックスタート](https://www.minteku.com/aiquickstart)
+
+ローカルLLM導入、生成AIアプリ開発、Dify導入などに関しては、是非ご活用ください。
+
 # Contact us
 
 <form method="post" action="https://hyperform.jp/api/MWZhqUoq">
