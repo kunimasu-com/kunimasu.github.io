@@ -72,7 +72,7 @@ IoT / Mobile / Webの開発業務についてのご相談を承っています�
 
 - 大手直接契約：パナソニック、ダイキン、ローランド 他
 - 創業間もないベンチャーから成長中の企業まで様々
-- [株式会社みんてく](https://www.minteku.com/)
+- [株式会社みんてく](https://minteku.com/)
   - 経営メンバーとして参画中 
 
 ## 自社プロダクト
@@ -133,11 +133,11 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 # 株式会社みんてく
 経営に参画している株式会社みんてくについて、以下から詳細を確認できます。
 
-- [株式会社みんてく](https://www.minteku.com/)
-- [みんてくのサービス](https://www.minteku.com/services)
-- [みんてくの生成AI活用](https://www.minteku.com/generation-ai)
-- [みんてくについて](https://www.minteku.com/about)
-- [みんてくへお問い合わせ](https://www.minteku.com/contact)
+- [株式会社みんてく](https://minteku.com/)
+- [みんてくのサービス](https://minteku.com/services)
+- [みんてくの生成AI活用](https://minteku.com/generation-ai)
+- [みんてくについて](https://minteku.com/about)
+- [みんてくへお問い合わせ](https://minteku.com/contact)
 
 ## AIクイックスタート
 みんてくは、10万円で生成AIアプリの開発を2週間 ~ お届けするサービス「AIクイックスタート」を始めました。
@@ -147,7 +147,7 @@ Githubと連携し、モバイルアプリ、WebサービスのE2Eテストを�
 
 生成AI導入の課題である「高コストへの不安」「長期開発の懸念」「専門知識の必要性」に対して、安心してご利用いただけるプランをご用意しています。
 
-[AIクイックスタート](https://www.minteku.com/aiquickstart)
+[AIクイックスタート](https://minteku.com/aiquickstart)
 
 ローカルLLM導入、生成AIアプリ開発、Dify導入などに関しては、是非ご活用ください。
 
