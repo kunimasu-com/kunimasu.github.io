@@ -100,7 +100,7 @@ IoT / Mobile / Webの開発業務についてのご相談を承っています�
 * 月額制エンジニアリングサービス（仕様を一緒に作っていく段階でジョイン出来ます）
 * 自社プロダクト開発・運営
 * 天然石販売
-  * [\_\_picgem\_\_]( ) - Twitter
+  * [\_\_picgem\_\_](https://x.com/__picgem__) - Twitter
   * [直販サイト](https://picgem.kunimasu.com/) - BASE支店
 * 自家珈琲焙煎・販売
 
